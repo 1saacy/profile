@@ -1,0 +1,133 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  background-color: #8DDED5;
+  color: darkgrey;
+
+}
+
+h1 {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-size: 30px;
+  color: black;
+
+
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 23px;
+  color: #black;
+
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  color: black;
+
+}
+a {
+  text-decoration: none;
+  font-size: 30px;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+i:hover {
+    text-decoration: underline;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #FAE8EB;
+  align-content: center;
+  padding: 20px;
+  margin: 50px 0;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+  background:  white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: black;
+  font-size: 15px;
+  line-height: 1.6em;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.text-center {
+  text-align: center;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  border: 1px solid lightgrey;
+}
+
+ul.inline > li {
+  display: inline-block;
+  padding: 0px 0px;
+}
+
+ul.inline {
+  padding-left: 0px
+}
+
+.card li{
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.inline li i{
+  font-size: 25px;
+}
+
+#profilepic {
+  border-radius: 50%
+}
+
+.btn2 {
+    background-color: #D5F3EF;
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 20px;
+    display: inline-block;
+    margin-bottom: 10px;
+
+ }
+
+.btn:hover {
+  text-decoration: none;
+  background-color: red;
+
+}
+
+.movie {
+  margin-bottom: 50px;
+}
+
+.card {
+  text-align: center;
+}
+
+#introduction {
+  margin-bottom: 10px
+}
+
+#student {
+  font-family: 'Open Sans', sans-serif;
+}
