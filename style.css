@@ -107,10 +107,11 @@ ul.inline {
     margin-top: 20px;
     display: inline-block;
     margin-bottom: 10px;
+    transition; background-color: 250ms;
 
  }
 
-.btn:hover {
+.btn2:hover {
   text-decoration: none;
   background-color: red;
 
